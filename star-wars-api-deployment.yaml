@@ -17,3 +17,4 @@ spec:
         image: lonerpatti/star-wars-api:0.0.1
         ports:
         - containerPort: 9000
+        
